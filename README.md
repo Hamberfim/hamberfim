@@ -1,8 +1,8 @@
 ## Hi there 👋
-### I'm a Python, Java and Website Developer ⚡<br/>
-Yes, I'd be interested in collaborating 👯<br/>
-Yes, I'm looking for a long-term gig 💬<br/>
-adhamlingithub at gmail dot com 📫<br/>
+### ⚡ I'm a Python, Java and Website Developer<br/>
+👯 I'd be interested in collaborating <br/>
+💬 I'm looking for a long-term gig <br/>
+📫 adhamlingithub at gmail dot com <br/>
 
 <!--
 **Hamberfim/hamberfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
