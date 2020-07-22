@@ -1,8 +1,9 @@
 ### Hi there 👋
 ⚡ I'm a Python, Java, SQL and Website Developer<br/>
+✨ Check out my public repos below. <br/>
 👯 I'd be interested in collaborating. <br/>
 💬 I'm looking for a long-term gig. <br/>
-📫 adhamlingithub at gmail dot com. <br/>
+📫 adhamlin at gmail dot com. <br/>
 
 <!--
 **Hamberfim/hamberfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
