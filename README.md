@@ -1,5 +1,5 @@
 ### Hi there 👋
-⚡ I'm a Python, Java, SQL and Website Developer<br/>
+⚡ I'm a Python, Java, SQL and Website Developer. <br/>
 ✨ Check out my public repos below. <br/>
 👯 I'd be interested in collaborating. <br/>
 💬 I'm looking for a long-term gig. <br/>
