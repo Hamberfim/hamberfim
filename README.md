@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ⚡ I'm a Python, Java and Website Developer<br/>
+### ⚡ I'm a Python, Java, SQL and Website Developer<br/>
 👯 I'd be interested in collaborating. <br/>
 💬 I'm looking for a long-term gig. <br/>
 📫 adhamlingithub at gmail dot com. <br/>
