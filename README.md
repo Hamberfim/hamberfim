@@ -3,7 +3,6 @@
 #### :man_technologist: I'm a Python, Java, SQL and Website Developer.⚡
 <div style="text-align: left">
 :fire: Love Linux but work on Windows. <br/>
-✨ Check out my public repos below. <br/>
 👯 I'd be interested in collaborating. <br/>
 :left_speech_bubble: I'm looking for a long-term gig. <br/>
 📫 adhamlin at gmail dot com. <br/>
@@ -23,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ✨
 -->
