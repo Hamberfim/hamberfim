@@ -6,7 +6,7 @@
 👯 I'd be interested in collaborating. <br/>
 :left_speech_bubble: I'm looking for a long-term gig. <br/>
 📫 adhamlin at gmail dot com. <br/>
-Enneagram: 5w4 :thinking: :nerd_face: :monocle_face: 
+:thinking: :nerd_face: :monocle_face: Enneagram: 5w4<br/>
 :wheel_of_dharma:<br/>
  </div>
 <!--
