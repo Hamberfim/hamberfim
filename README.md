@@ -9,9 +9,6 @@
 :thinking: :nerd_face: :monocle_face: 5w4 <br/>
 <br/>:wheel_of_dharma: <br/>
 </div><br/>
- 
-     for (i in 'z' downTo 'a') print(i + ", ")
- 
 <!--
 **Hamberfim/hamberfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
