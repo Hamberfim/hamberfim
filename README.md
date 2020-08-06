@@ -6,7 +6,7 @@
 👯 I'd be interested in collaborating. <br/>
 :left_speech_bubble: I'm looking for a long-term gig. <br/>
 📫 adhamlin at gmail dot com. <br/>
-:thinking: :nerd_face: :monocle_face: 5w4 <br/>
+:thinking: :nerd_face: :monocle_face: 5w(4/6) <br/>
 <br/>:wheel_of_dharma: <br/>
 </div><br/>
 <!--
