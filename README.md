@@ -8,9 +8,9 @@
 <br/>
 <br/>
 :point_right: I'm looking for a long-term gig. <br/>
-📫 adhamlingithub at gmail dot com. <br/>
+📫 adhamlingithub at gmail dot com. <br/><br/>
 :thinking: :nerd_face: :monocle_face: 5w(4/6) <br/>
-<br/>:wheel_of_dharma: <br/>
+:wheel_of_dharma: <br/>
 </span><br/>
 <!--
 **Hamberfim/hamberfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
