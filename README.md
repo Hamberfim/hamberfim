@@ -4,8 +4,10 @@
 <div style="text-align: left">
 :fire: Love Linux but work on Windows. <br/>
 :sparkling_heart: Python, SQL, Data Wrangling, Kotlin, Java, Mobile & Web App Development. <br/>
+<br/>
 👯 I'd be interested in collaborating. <br/>
 :left_speech_bubble: I'm looking for a long-term gig. <br/>
+<br/>
 📫 adhamlingithub at gmail dot com. <br/>
 :thinking: :nerd_face: :monocle_face: 5w(4/6) <br/>
 <br/>:wheel_of_dharma: <br/>
