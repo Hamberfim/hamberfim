@@ -3,10 +3,9 @@
 #### :man_technologist: I'm a Developer. ⚡
 <div style="text-align: left">
 :sparkling_heart: Python, SQL, Data Wrangling, Kotlin, Java, Mobile & Web App Development. <br/>
-:fire: Love Linux but work on Windows. <br/>
+:orange_heart: Love Linux but work on Windows. <br/>
 <br/>
-:left_speech_bubble: I'm looking for a long-term gig. <br/>
-<br/>
+:point_right: I'm looking for a long-term gig. <br/>
 📫 adhamlingithub at gmail dot com. <br/>
 :thinking: :nerd_face: :monocle_face: 5w(4/6) <br/>
 <br/>:wheel_of_dharma: <br/>
