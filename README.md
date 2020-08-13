@@ -3,7 +3,7 @@
 #### :man_technologist: I'm a Developer. ⚡
 <div style="text-align: left">
 :fire: Love Linux but work on Windows. <br/>
-🌱 I'm interested in Python, SQL, Data Wrangling, Kotlin, Java, mobile app and web development. <br/>
+🌱 Interested in Python, SQL, Data Wrangling, Kotlin, Java, mobile app/web development. <br/>
 👯 I'd be interested in collaborating. <br/>
 :left_speech_bubble: I'm looking for a long-term gig. <br/>
 📫 adhamlin at gmail dot com. <br/>
