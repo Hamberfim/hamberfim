@@ -5,6 +5,7 @@
 :sparkling_heart: Python, SQL, Data Wrangling, Kotlin, Java, Mobile & Web App Development. <br/>
 :orange_heart: Love Linux but work on Windows. <br/>
 <br/>
+<br/>
 :point_right: I'm looking for a long-term gig. <br/>
 📫 adhamlingithub at gmail dot com. <br/>
 :thinking: :nerd_face: :monocle_face: 5w(4/6) <br/>
