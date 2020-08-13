@@ -2,10 +2,9 @@
 ### 👋 Hi, I'm Anthony.
 #### :man_technologist: I'm a Developer. ⚡
 <div style="text-align: left">
-:fire: Love Linux but work on Windows. <br/>
 :sparkling_heart: Python, SQL, Data Wrangling, Kotlin, Java, Mobile & Web App Development. <br/>
+:fire: Love Linux but work on Windows. <br/>
 <br/>
-👯 I'd be interested in collaborating. <br/>
 :left_speech_bubble: I'm looking for a long-term gig. <br/>
 <br/>
 📫 adhamlingithub at gmail dot com. <br/>
