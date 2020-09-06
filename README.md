@@ -10,7 +10,7 @@
 <br/>
 ✨ Currently pursuing an AAS Degree in Computer Informations Systems. <br/>
 🔭 Obtained a Java Application Developer Certificate May 2020. <br/>
-🔭 Will obtain a Python Application Developer Certificate December 2020. <br/>
+✨ Will obtain a Python Application Developer Certificate December 2020. <br/>
 :point_right: I'm looking for a long-term gig. <br/>
 📫 adhamlingithub at gmail dot com. <br/><br/>
 :thinking: :nerd_face: :monocle_face: 5w(4/6) <br/>
