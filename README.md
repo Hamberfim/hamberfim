@@ -7,14 +7,16 @@
 :orange_heart: Love Linux but work on Windows. <br/>
 <br/>
 <br/>
+✨ Currently pursuing an AAS Degree in Computer Informations Systems. <br/>
+:bulb: Obtained a Java Application Developer Certificate May 2020. <br/>
+✨ Will obtain a Python Application Developer Certificate December 2020. <br/>
+<br/>
+<br/>
 <a href='https://adhamlin.myportfolio.com' target="_blank">My Adobe Portfolio</a><br/>
 <a href='https://hamberfim.github.io/WDV101_Projects/homework/index.html' target="_blank">Some DMACC Web Class Assignments</a><br/>
 <a href='https://hamberfim.github.io' target="_blank">Deployed GitHub Website</a><br/>
 <br/>
 <br/>
-✨ Currently pursuing an AAS Degree in Computer Informations Systems. <br/>
-:bulb: Obtained a Java Application Developer Certificate May 2020. <br/>
-✨ Will obtain a Python Application Developer Certificate December 2020. <br/>
 :point_right: I'm looking for a long-term gig. <br/>
 📫 adhamlingithub at gmail dot com. <br/><br/>
 :thinking: :nerd_face: :monocle_face: 5w(4/6) <br/>
