@@ -12,7 +12,7 @@
 ✨ Will obtain a Python Application Developer Certificate December 2020. <br/>
 <br/>
 <br/>
-###### To open in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
+###### To open these links in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
 [My Adobe Portfolio](https://adhamlin.myportfolio.com) <br/>
 [Some DMACC Web Class Assignments](https://hamberfim.github.io/WDV101_Projects/homework/index.html) <br/>
 [Deployed GitHub Resume Website](https://hamberfim.github.io/) <br/>
