@@ -7,6 +7,10 @@
 :orange_heart: Love Linux but work on Windows. <br/>
 <br/>
 <br/>
+https://adhamlin.myportfolio.com/ <br/>
+https://hamberfim.github.io/WDV101_Projects/homework/index.html <br/>
+https://hamberfim.github.io/ <br/>
+<br/>
 <br/>
 ✨ Currently pursuing an AAS Degree in Computer Informations Systems. <br/>
 :bulb: Obtained a Java Application Developer Certificate May 2020. <br/>
