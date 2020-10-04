@@ -12,9 +12,9 @@
 ✨ Will obtain a Python Application Developer Certificate December 2020. <br/>
 <br/>
 <br/>
-[My Adobe Portfolio](https://adhamlin.myportfolio.com{:target="_blank"}) <br/>
-[Some DMACC Web Class Assignments](https://hamberfim.github.io/WDV101_Projects/homework/index.html{:target="_blank"}){:target="_blank"} <br/>
-[Deployed GitHub Resume Website](https://hamberfim.github.io{:target="_blank"}){:target="_blank"} <br/>
+[My Adobe Portfolio](https://adhamlin.myportfolio.com) <br/>
+[Some DMACC Web Class Assignments](https://hamberfim.github.io/WDV101_Projects/homework/index.html){:target="_blank"} <br/>
+[Deployed GitHub Resume Website](https://hamberfim.github.io){:target="_blank"} <br/>
 <br/>
 <br/>
 :point_right: I'm looking for a long-term gig. <br/>
