@@ -14,7 +14,7 @@
 <br/>
 <a href='https://adhamlin.myportfolio.com' target="_blank">My Adobe Portfolio</a><br/>
 <a href='https://hamberfim.github.io/WDV101_Projects/homework/index.html' target="_blank">Some DMACC Web Class Assignments</a><br/>
-<a href='https://hamberfim.github.io' target="_blank">Deployed GitHub Website</a><br/>
+<a href='https://hamberfim.github.io' target="_blank">Deployed GitHub Resume Website</a><br/>
 <br/>
 <br/>
 :point_right: I'm looking for a long-term gig. <br/>
