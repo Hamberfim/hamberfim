@@ -7,9 +7,9 @@
 :orange_heart: Love Linux but work on Windows. <br/>
 <br/>
 <br/>
-https://adhamlin.myportfolio.com/ <br/>
-https://hamberfim.github.io/WDV101_Projects/homework/index.html <br/>
-https://hamberfim.github.io/ <br/>
+<a href='https://adhamlin.myportfolio.com' target="_blank">My Adobe Portfolio</a><br/>
+<a href='https://hamberfim.github.io/WDV101_Projects/homework/index.html' target="_blank">Some DMACC Web Class Assignments</a><br/>
+<a href='https://hamberfim.github.io' target="_blank">Deployed GitHub Website</a><br/>
 <br/>
 <br/>
 ✨ Currently pursuing an AAS Degree in Computer Informations Systems. <br/>
