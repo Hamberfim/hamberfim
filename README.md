@@ -18,7 +18,7 @@
 [Deployed GitHub Resume Website](https://hamberfim.github.io/) <br/>
 <br/>
 <br/>
-:point_right: I'm looking for a long-term gig. <br/>
+:point_right: I'm looking for an internship and eventually a long-term gig. <br/>
 📫 adhamlingithub at gmail dot com. <br/><br/>
 :thinking: :nerd_face: :monocle_face: 5w(4/6) <br/>
 :wheel_of_dharma: <br/>
