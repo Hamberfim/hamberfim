@@ -8,6 +8,15 @@ I solve new problems creatively in controlled, calculated, and organized ways. D
 🌱 Also interested in Kotlin, Java & Android Mobile App Development. <br/>
 :orange_heart: Love Linux but work on Windows. <br/>
 <br/>
+
+:bulb: Obtained a Java Application Developer Certificate Spring 2020. <br/>
+:bulb: Obtained a Python Application Developer Certificate Fall 2020. <br/>
+<br/>
+✨ Will Obtain a SQL Application Developer Certificate, expected Spring 2021. <br/>
+✨ Will Obtain a Programming Languages Diploma, expected Summer 2021. <br/>
+✨ Will Obtain a AAS Degree in Computer Informations Systems, expected Spring 2022. <br/>
+<br/>
+<br/>
 <!-- table -->
   <tbody><tr>
   <td>Course Title</td>
@@ -74,14 +83,6 @@ I solve new problems creatively in controlled, calculated, and organized ways. D
  </tr>
 </tbody>
 <!-- end table -->
-<br/>
-<br/>
-:bulb: Obtained a Java Application Developer Certificate Spring 2020. <br/>
-:bulb: Obtained a Python Application Developer Certificate Fall 2020. <br/>
-<br/>
-✨ Will Obtain a SQL Application Developer Certificate, expected Spring 2021. <br/>
-✨ Will Obtain a Programming Languages Diploma, expected Summer 2021. <br/>
-✨ Will Obtain a AAS Degree in Computer Informations Systems, expected Spring 2022. <br/>
 <br/>
 <br/>
 ###### To open these links in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
