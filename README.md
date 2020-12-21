@@ -8,6 +8,74 @@ I solve new problems creatively in controlled, calculated, and organized ways. D
 🌱 Also interested in Kotlin, Java & Android Mobile App Development. <br/>
 :orange_heart: Love Linux but work on Windows. <br/>
 <br/>
+<!-- table -->
+  <tbody><tr>
+  <td>Course Title</td>
+  <td>Course #</td>
+  <td>Grade</td>
+  <td>Term</td>
+  <td>Year</td>
+ </tr>
+ <tr>
+  <td>Intro to Programming Logic</td>
+  <td>CIS125</td>
+  <td>A</td>
+  <td>Summer</td>
+  <td>2019</td>
+ </tr>
+ <tr>
+  <td>Introduction to Database</td>
+  <td>CIS303</td>
+  <td>A</td>
+  <td>Summer</td>
+  <td>2019</td>
+ </tr>
+ <tr>
+  <td>Intro to HTML and CSS</td>
+  <td>WDV101</td>
+  <td>A</td>
+  <td>Fall</td>
+  <td>2019</td>
+ </tr>
+ <tr>
+  <td>Database &amp; SQL</td>
+  <td>CIS332</td>
+  <td>A</td>
+  <td>Fall</td>
+  <td>2019</td>
+ </tr>
+ <tr>
+  <td>Java I</td>
+  <td>CIS171</td>
+  <td>A</td>
+  <td>Fall</td>
+  <td>2019</td>
+ </tr>
+ <tr>
+  <td>Java II</td>
+  <td>CIS175</td>
+  <td>A</td>
+  <td>Spring</td>
+  <td>2020</td>
+ </tr>
+ <tr>
+  <td>Python I</td>
+  <td>CIS189</td>
+  <td>A</td>
+  <td>Summer</td>
+  <td>2020</td>
+ </tr>
+ <tr>
+  <td>Python II</td>
+  <td>CIS289</td>
+  <td>A</td>
+  <td>Fall</td>
+  <td>2020</td>
+ </tr>
+</tbody>
+<!-- end table -->
+<br/>
+<br/>
 :bulb: Obtained a Java Application Developer Certificate Spring 2020. <br/>
 :bulb: Obtained a Python Application Developer Certificate Fall 2020. <br/>
 <br/>
