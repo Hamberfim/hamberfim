@@ -24,7 +24,6 @@
 🌱 CIS175 **Java II**, Grade: A <br/>
 🌱 CIS189 **Python I**, Grade: A <br/>
 🌱 CIS289 **Python II**, Grade: A <br/>
-<br/>
 ###### To open these links in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
 [My Adobe Portfolio](https://adhamlin.myportfolio.com) <br/>
 [Some DMACC Web Class Assignments](https://hamberfim.github.io/WDV101_Projects/homework/index.html) <br/>
