@@ -10,7 +10,7 @@ I solve new problems creatively in controlled, calculated, and organized ways. D
 <br/>
 ✨ Currently pursuing an AAS Degree in Computer Informations Systems. <br/>
 :bulb: Obtained a Java Application Developer Certificate May 2020. <br/>
-✨ Will obtain a Python Application Developer Certificate December 2020. <br/>
+✨ Obtained a Python Application Developer Certificate December 2020. <br/>
 <br/>
 <br/>
 ###### To open these links in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
