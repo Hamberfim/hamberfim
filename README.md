@@ -17,7 +17,7 @@ I solve new problems creatively in controlled, calculated, and organized ways. D
 ✨ Will Obtain a AAS Degree in Computer Informations Systems, expected Spring 2022. <br/>
 <br/>
 <br/>
-Completed Coursework (Current Program GPA: 4.0): <br/>
+✨ Completed Coursework (Current Program **GPA: 4.0**): <br/>
 🌱 CIS125 **Intro to Programming Logic**, Grade: A <br/>
 🌱 CIS303 **Introduction to Database**, Grade: A <br/>
 🌱 WDV101 **Intro to HTML and CSS**, Grade: A <br/>
