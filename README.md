@@ -17,72 +17,15 @@ I solve new problems creatively in controlled, calculated, and organized ways. D
 ✨ Will Obtain a AAS Degree in Computer Informations Systems, expected Spring 2022. <br/>
 <br/>
 <br/>
-<!-- table -->
-  <tbody><tr>
-  <td>Course Title</td>
-  <td>Course #</td>
-  <td>Grade</td>
-  <td>Term</td>
-  <td>Year</td>
- </tr>
- <tr>
-  <td>Intro to Programming Logic</td>
-  <td>CIS125</td>
-  <td>A</td>
-  <td>Summer</td>
-  <td>2019</td>
- </tr>
- <tr>
-  <td>Introduction to Database</td>
-  <td>CIS303</td>
-  <td>A</td>
-  <td>Summer</td>
-  <td>2019</td>
- </tr>
- <tr>
-  <td>Intro to HTML and CSS</td>
-  <td>WDV101</td>
-  <td>A</td>
-  <td>Fall</td>
-  <td>2019</td>
- </tr>
- <tr>
-  <td>Database &amp; SQL</td>
-  <td>CIS332</td>
-  <td>A</td>
-  <td>Fall</td>
-  <td>2019</td>
- </tr>
- <tr>
-  <td>Java I</td>
-  <td>CIS171</td>
-  <td>A</td>
-  <td>Fall</td>
-  <td>2019</td>
- </tr>
- <tr>
-  <td>Java II</td>
-  <td>CIS175</td>
-  <td>A</td>
-  <td>Spring</td>
-  <td>2020</td>
- </tr>
- <tr>
-  <td>Python I</td>
-  <td>CIS189</td>
-  <td>A</td>
-  <td>Summer</td>
-  <td>2020</td>
- </tr>
- <tr>
-  <td>Python II</td>
-  <td>CIS289</td>
-  <td>A</td>
-  <td>Fall</td>
-  <td>2020</td>
- </tr>
-</tbody>
-<!-- end table -->
+Completed Coursework (Current Program GPA: 4.0):
+CIS125-Intro to Programming Logic, Grade: A <br/>
+CIS303-Introduction to Database, Grade: A <br/>
+WDV101-Intro to HTML and CSS, Grade: A <br/>
+CIS332-Database & SQL, Grade: A <br/>
+CIS171-Java I, Grade: A <br/>
+CIS175-Java II, Grade: A <br/>
+CIS189-Python I, Grade: A <br/>
+CIS289-Python II, Grade: A <br/>
 <br/>
 <br/>
 ###### To open these links in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
