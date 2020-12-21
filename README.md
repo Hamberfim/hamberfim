@@ -17,7 +17,6 @@
 ✨ Will Obtain a Programming Languages Diploma, expected Summer 2021. <br/>
 ✨ Will Obtain a AAS Degree in Computer Informations Systems, expected Spring 2022. <br/>
 <br/>
-<br/>
 ✨ Completed Coursework (Current Program **GPA: 4.0**): <br/>
 🌱 CIS125 **Intro to Programming Logic**, Grade: A <br/>
 🌱 CIS303 **Introduction to Database**, Grade: A <br/>
@@ -28,12 +27,10 @@
 🌱 CIS189 **Python I**, Grade: A <br/>
 🌱 CIS289 **Python II**, Grade: A <br/>
 <br/>
-<br/>
 ###### To open these links in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
 [My Adobe Portfolio](https://adhamlin.myportfolio.com) <br/>
 [Some DMACC Web Class Assignments](https://hamberfim.github.io/WDV101_Projects/homework/index.html) <br/>
 [Deployed GitHub Resume Website](https://hamberfim.github.io/) <br/>
-<br/>
 <br/>
 :point_right: I'm looking for an internship and eventually a long-term position. <br/>
 📫 adhamlingithub at gmail dot com. <br/><br/>
