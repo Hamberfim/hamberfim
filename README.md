@@ -27,7 +27,7 @@
 ###### To open these links in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
 [My Adobe Portfolio](https://adhamlin.myportfolio.com) <br/>
 [Some DMACC Web Class Assignments](https://hamberfim.github.io/WDV101_Projects/homework/index.html) <br/>
-[Deployed GitHub Resume Website](https://hamberfim.github.io/) <br/>
+[Deployed GitHub Resume Website](https://hamberfim.github.io/) <br/><br/>
 :point_right: I'm looking for an internship and eventually a long-term position. <br/>
 📫 adhamlingithub at gmail dot com. <br/><br/>
 :thinking: :nerd_face: :monocle_face: 5w(4/6) <br/>
