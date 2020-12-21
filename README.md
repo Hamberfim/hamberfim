@@ -4,7 +4,7 @@
 <span style="white-space: nowrap;">I solve new problems creatively in controlled, calculated, and organized ways. Deliberate in my planning, and I think before acting. I do my homework and have a high degree of curiosity about many areas. I enjoy learning for learning’s sake, and I become competent in the things I choose to learn. I am a strong stabilizing force on a team during high-pressure projects, a team player and I support the cause without hidden agendas. </span><br/>
 
 <span style="text-align: left">
-✨ Part-time student pursuing an AAS degree in Computer Information Sysytems. <br/>
+✨ Pursuing an AAS degree in Computer Information Sysytems. <br/>
 :sparkling_heart: Python, SQL, Data Wrangling, DevOps/DevNet & Web App Development. <br/>
 🌱 Also interested in Kotlin, Java & Android Mobile App Development. <br/>
 :orange_heart: Love Linux but work on Windows. <br/>
