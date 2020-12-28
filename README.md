@@ -11,7 +11,6 @@
 :bulb: Obtained a Java Application Developer Certificate Spring 2020. <br/>
 :bulb: Obtained a Python Application Developer Certificate Fall 2020. <br/>
 <br/>
-✨ Will Obtain a SQL Application Developer Certificate, expected Spring 2021. <br/>
 ✨ Will Obtain a Programming Languages Diploma, expected Summer 2021. <br/>
 ✨ Will Obtain a AAS Degree in Computer Informations Systems, expected Spring 2022. <br/>
 <br/>
