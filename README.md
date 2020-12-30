@@ -24,13 +24,13 @@
 🌱 CIS189 **Python I**, Grade: A <br/>
 🌱 CIS289 **Python II**, Grade: A <br/>
 ###### To open these links below in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
-[My Adobe Portfolio](https://adhamlin.myportfolio.com) <br/>
-[Some DMACC Web Class Assignments](https://hamberfim.github.io/WDV101_Projects/homework/index.html) <br/>
-[Deployed GitHub Resume Website](https://hamberfim.github.io/) <br/><br/>
-:point_right: I'm looking for an internship and eventually a long-term position. <br/>
+:point_right: [My Adobe Portfolio](https://adhamlin.myportfolio.com) <br/>
+:point_right: [Some DMACC Web Class Assignments](https://hamberfim.github.io/WDV101_Projects/homework/index.html) <br/>
+:point_right: [Deployed GitHub Resume Website](https://hamberfim.github.io/) <br/><br/>
+:point_right: [LinkedIn](https://www.linkedin.com/in/hamberfim/) <br/>
 📫 adhamlingithub at gmail dot com. <br/><br/>
 :thinking: :nerd_face: :monocle_face: 5w(4/6) <br/>
-:wheel_of_dharma: <br/>
+:wheel_of_dharma::prayer_beads::latin_cross: <br/>
 </span><br/>
 <!--
 **Hamberfim/hamberfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
