@@ -7,8 +7,8 @@
 :sparkling_heart: Data Wrangling, ETL, Infrastructure Development, Automation, DevOps. <br/>
 :orange_heart: Love Linux but work on Windows. <br/>
 <br/>
-:bulb: Obtained a Java Application Developer Certificate Spring 2020. <br/>
 :bulb: Obtained a Python Application Developer Certificate Fall 2020. <br/>
+:bulb: Obtained a Java Application Developer Certificate Spring 2020. <br/>
 <br/>
 ✨ Completed Coursework (Current Program **GPA: 4.0**): <br/>
 🌱 CIS125 **Intro to Programming Logic**, Grade: A <br/>
