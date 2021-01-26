@@ -9,7 +9,6 @@
 <br/>
 :bulb: Obtained a Java Application Developer Certificate Spring 2020. <br/>
 :bulb: Obtained a Python Application Developer Certificate Fall 2020. <br/>
-:bulb: Will obtain a C# Application Developer Certificate Spring 2021. <br/>
 <br/>
 ✨ Completed Coursework (Current Program **GPA: 4.0**): <br/>
 🌱 CIS125 **Intro to Programming Logic**, Grade: A <br/>
