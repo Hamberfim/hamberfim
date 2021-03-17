@@ -25,7 +25,7 @@
 :point_right: [Deployed GitHub Resume Website](https://hamberfim.github.io/) <br/><br/>
 :point_right: [LinkedIn](https://www.linkedin.com/in/hamberfim/) <br/>
  
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4a68c5513c1ca2feabccc29326e230b993a3f2ce453581d4bf3e48237e8e9435/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a616d65736d6f6e74656d61676e6f2673686f775f69636f6e733d74727565"><img src="https://camo.githubusercontent.com/4a68c5513c1ca2feabccc29326e230b993a3f2ce453581d4bf3e48237e8e9435/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a616d65736d6f6e74656d61676e6f2673686f775f69636f6e733d74727565" alt="Anthony's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Hamberfim&show_icons=true" style="max-width:100%;"></a> <br/>
+<a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=Hamberfim&show_icons=true"><img src="https://github-readme-stats.vercel.app/api?username=Hamberfim&show_icons=true" alt="Anthony's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Hamberfim&show_icons=true" style="max-width:100%;"></a> <br/>
  
 📫 adhamlingithub at gmail dot com. <br/><br/>
 :thinking: :nerd_face: :monocle_face: 5w(4/6) <br/>
