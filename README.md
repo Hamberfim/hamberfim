@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Hamberfim&show_icons=true" alt="Anthony's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Hamberfim&show_icons=true" style="max-width:100%;"><br/><br/>
+<img src="https://camo.githubusercontent.com/9a40c450a9351a0648965fc4357dfda2d59338cb305636b711117f82966d37bc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d48616d62657266696d2673686f775f69636f6e733d74727565" alt="Anthony's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Hamberfim&show_icons=true" style="max-width:100%;"><br/><br/>
 
 <span style="white-space: nowrap;"><h3>👋Hi, I'm Anthony.</h3></span>
 :man_technologist:<strong>Husband, Dad, Linux Lover, Developer, Data Wrangler/Data Engineer, & DevOps enthusiast, interested in creating things that have a positive impact on our world.</strong>⚡ 
