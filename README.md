@@ -12,7 +12,7 @@
 :bulb: Obtained a Python Application Developer Certificate Fall 2020. <br/>
 :bulb: Obtained a Java Application Developer Certificate Spring 2020. <br/>
 <br/>
-✨ Completed Coursework (Current Program **Honors GPA: 4.0**): <br/>
+✨ Completed Coursework (**Honors GPA: 4.0**): <br/>
 🌱 CIS125 **Intro to Programming Logic**, Grade: A <br/>
 🌱 CIS303 **Introduction to Database**, Grade: A <br/>
 🌱 WDV101 **Intro to HTML and CSS**, Grade: A <br/>
