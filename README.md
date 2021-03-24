@@ -9,10 +9,10 @@
 :sparkling_heart: C#, Python, Java, Data Wrangling, ETL, Infrastructure Development, Automation, DevOps. <br/>
 :orange_heart: Love Linux but work on Windows. <br/>
 <br/>
-:bulb: Obtained a Python Application Developer Certificate Fall 2020. <br/>
-:bulb: Obtained a Java Application Developer Certificate Spring 2020. <br/>
+:bulb: Obtained a Python Application Developer Certificate (Program Honors GPA: 4.0) Fall 2020. <br/>
+:bulb: Obtained a Java Application Developer Certificate (Program Honors GPA: 4.0) Spring 2020. <br/>
 <br/>
-✨ Completed Coursework (**Honors GPA: 4.0**): <br/>
+✨ Completed Coursework (**Current Program GPA: 4.0**): <br/>
 🌱 CIS125 **Intro to Programming Logic**, Grade: A <br/>
 🌱 CIS303 **Introduction to Database**, Grade: A <br/>
 🌱 WDV101 **Intro to HTML and CSS**, Grade: A <br/>
