@@ -27,7 +27,7 @@
 :point_right: [Deployed GitHub Resume Website](https://hamberfim.github.io/) <br/>
 :point_right: [LinkedIn](https://www.linkedin.com/in/hamberfim/) <br/><br />
 
-JavaScript, Bootstrap/CSS, html and CI/CD via Netlify
+JavaScript, Bootstrap/CSS, html and CI/CD via Netlify <br/>
 :point_right: [CI/CD -CSV - JS Project](https://js-csvreader.netlify.app/) <br/>
 :point_right: [CI/CD -Reverse - JS Project](https://js-reverse.netlify.app/) <br/>
 :point_right: [CI/CD -Char Count - JS Project](https://js-charcount.netlify.app/) <br/>
