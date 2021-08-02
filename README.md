@@ -25,7 +25,12 @@
 :point_right: [My Adobe Portfolio](https://adhamlin.myportfolio.com) <br/>
 :point_right: [Some DMACC Web Class Assignments](https://hamberfim.github.io/WDV101_Projects/homework/index.html) <br/>
 :point_right: [Deployed GitHub Resume Website](https://hamberfim.github.io/) <br/>
-:point_right: [LinkedIn](https://www.linkedin.com/in/hamberfim/) <br/>
+:point_right: [LinkedIn](https://www.linkedin.com/in/hamberfim/) <br/><br />
+ [CI/CD -CSV - JS Project](https://js-csvreader.netlify.app/) <br/>
+ [CI/CD -Reverse - JS Project](https://js-reverse.netlify.app/) <br/>
+ [CI/CD -Char Count - JS Project](https://js-charcount.netlify.app/) <br/>
+ [CI/CD -100 -JS Project](https://js-one-hundred.netlify.app/) <br/>
+ 
  
 📫 adhamlingithub at gmail dot com. <br/><br/>
 :thinking: :nerd_face: :monocle_face: 5w(4/6) <br/>
