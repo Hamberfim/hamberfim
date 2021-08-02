@@ -22,7 +22,7 @@
 🌱 CIS189 **Python I**, Grade: A <br/>
 🌱 CIS289 **Python II**, Grade: A <br/>
  
-#### For some examples see my Pinned GitHub Repos below, browser my GitHubor view these Project links <br/>
+#### For some examples see my Pinned GitHub repos, view these Project links below or browse through my GitHub repos <br/>
 ###### To open these links below in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
 :point_right: [My Adobe Portfolio](https://adhamlin.myportfolio.com) <br/>
 :point_right: [Some DMACC Web Class Assignments](https://hamberfim.github.io/WDV101_Projects/homework/index.html) <br/>
