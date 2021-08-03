@@ -22,7 +22,7 @@
 🌱 CIS189 **Python I**, Grade: A <br/>
 🌱 CIS289 **Python II**, Grade: A <br/>
  
-#### For some examples see my Pinned GitHub repos, view these Project links below or browse through my GitHub repos <br/>
+#### For examples of C#, Java or Python, see my Pinned GitHub repos below or browse through my GitHub repos <br/>
 ###### To open these links below in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
  
 JavaScript, Bootstrap/CSS, html, some graphics and CI/CD via Netlify <br/>
