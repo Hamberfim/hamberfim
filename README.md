@@ -28,8 +28,10 @@
 JavaScript, Bootstrap/CSS, html and CI/CD via Netlify <br/>
 :point_right: [CI/CD -CSV - JS Project](https://js-csvreader.netlify.app/) <br/>
 :point_right: [CI/CD -Reverse - JS Project](https://js-reverse.netlify.app/) <br/>
+:point_right: [CI/CD -100 -JS Project](https://js-one-hundred.netlify.app/) <br/>
+:point_right: [CI/CD -FizzBuzz -JS Project](https://js-fizzbuzz.netlify.app/) <br/>
 :point_right: [CI/CD -Char Count - JS Project](https://js-charcount.netlify.app/) <br/>
-:point_right: [CI/CD -100 -JS Project](https://js-one-hundred.netlify.app/) <br/> 
+ 
 
 Graphics, Photography, JavaScript, Bootstrap/CSS, HTML <br/>
 :point_right: [My Adobe Portfolio](https://adhamlin.myportfolio.com) <br/>
