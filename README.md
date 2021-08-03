@@ -6,7 +6,7 @@
 <span style="white-space: nowrap;">I solve problems creatively in controlled, calculated, and organized ways. Deliberate in my planning, I think before acting. I do my homework and have a high degree of curiosity about many areas. I enjoy learning for learning’s sake, and I become competent in the things I choose to learn. I am a strong stabilizing force on a team during high-pressure projects, a team player and I support the cause without hidden agendas. </span><br/><br/>
 <span style="text-align: left">
 ✨ Pursuing an AAS degree in Computer Information Systems. <br/>
-:sparkling_heart: C#, Python, Java, Data Wrangling, ETL, Infrastructure Development, Automation, DevOps. <br/>
+:sparkling_heart: C#, Python, Java, Data Wrangling, ETL, Infrastructure Development, Automation, DevOps and FullStack. <br/>
 :orange_heart: Love Linux but work on Windows. <br/>
 <br/>
 :bulb: Obtained a Python Application Developer Certificate (Program Honors GPA: 4.0) Fall 2020. <br/>
@@ -22,7 +22,7 @@
 🌱 CIS189 **Python I**, Grade: A <br/>
 🌱 CIS289 **Python II**, Grade: A <br/>
  
-#### For examples of C#, Java or Python, see my Pinned GitHub repos below or browse through my GitHub repos <br/>
+#### For examples of C#, Java or Python, see my Pinned GitHub repos below or browse through my GitHub. <br/>
 ###### To open these links below in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
  
 JavaScript, Bootstrap/CSS, html, some graphics and CI/CD via Netlify <br/>
