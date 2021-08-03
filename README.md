@@ -25,7 +25,7 @@
 #### For some examples see my Pinned GitHub repos, view these Project links below or browse through my GitHub repos <br/>
 ###### To open these links below in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
  
-JavaScript, Bootstrap/CSS, html and CI/CD via Netlify <br/>
+JavaScript, Bootstrap/CSS, html, some graphics and CI/CD via Netlify <br/>
 :point_right: [CI/CD -CSV - JS Project](https://js-csvreader.netlify.app/) <br/>
 :point_right: [CI/CD -Reverse - JS Project](https://js-reverse.netlify.app/) <br/>
 :point_right: [CI/CD -100 -JS Project](https://js-one-hundred.netlify.app/) <br/>
