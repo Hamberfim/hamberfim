@@ -35,7 +35,7 @@ JavaScript, Bootstrap/CSS, HTML, some graphics and CI/CD via Netlify <br/>
  
 
 Graphics, Photography, JavaScript, Bootstrap/CSS, HTML <br/>
-:point_right: [My Adobe Portfolio](https://adhamlin.myportfolio.com) <br/>
+<!-- :point_right: [My Adobe Portfolio](https://adhamlin.myportfolio.com) <br/> -->
 :point_right: [Some DMACC Web Class Assignments](https://hamberfim.github.io/WDV101_Projects/homework/index.html) <br/>
 :point_right: [Deployed GitHub Resume Website](https://hamberfim.github.io/) <br/>
 :point_right: [LinkedIn](https://www.linkedin.com/in/hamberfim/) <br/>
