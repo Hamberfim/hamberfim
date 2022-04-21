@@ -45,7 +45,7 @@ Graphics, Photography, JavaScript, Bootstrap/CSS, HTML <br/>
  
  
 📫 adhamlingithub at gmail dot com. <br/><br/>
-:thinking: :nerd_face: :monocle_face: Enneagram: 5w4 | Personality: Advocate/INFJ-T | Role: Diplomat | Strategy: Constant Improvement<br/>
+:thinking: :nerd_face: :monocle_face: Personality: Advocate/INFJ-T | Enneagram: 5w4 | Role: Diplomat | Strategy: Constant Improvement<br/>
 :wheel_of_dharma::prayer_beads::latin_cross: <br/>
 </span><br/>
 <!--
