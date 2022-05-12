@@ -22,10 +22,16 @@
 🌱 CIS189 <strong>Python I</strong>, Grade: A <br/>
 🌱 CIS289 <strong>Python II</strong>, Grade: A <br/>
  
-#### For examples of C#, Java or Python, see my Pinned GitHub repos below or browse through my GitHub. <br/>
 ###### To open these links below in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
+
+C#, ASP.NET Core MVC, Bootstrap/CSS, HTML, and some graphic design <br/>
+:point_right: [TacoCat - ASP.NET Core MVC Project](https://github.com/Hamberfim/PalindromeCsharp) <br/>
+:point_right: [FizzBuzz - ASP.NET Core MVC Project](https://github.com/Hamberfim/FizzBuzzMVC) <br/>
+:point_right: [Bakers Formula Converter - C# Windows Application Project](https://github.com/Hamberfim/BakersFormulaConverter) <br/>
+
+#### For more examples of C#, Java or Python, see my Pinned GitHub repos below or browse through my GitHub. <br/>
  
-JavaScript, Bootstrap/CSS, HTML, some graphics and CI/CD via Netlify <br/>
+JavaScript, Bootstrap/CSS, HTML, some graphic design and CI/CD via Netlify <br/>
 :point_right: [CI/CD -CSV - JS Project](https://js-csvreader.netlify.app/) <br/>
 :point_right: [CI/CD -Consume API - JS Project](https://js-consume.netlify.app/) <br/>
 :point_right: [CI/CD -Palindrome - JS Project](https://js-tacocat.netlify.app/) <br/>
