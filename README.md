@@ -31,7 +31,8 @@ C#, ASP.NET Core MVC, Bootstrap/CSS, HTML, and some graphic design <br/>
 
 #### For more examples of C#, Java or Python, see my Pinned GitHub repos below or browse through my GitHub. <br/>
  
-JavaScript, Bootstrap/CSS, HTML, some graphic design and CI/CD via Netlify <br/>
+JavaScript, Typescript, Bootstrap/CSS, HTML, some graphic design and CI/CD via Netlify <br/>
+:point_right: [CI/CD -Shopping-Cart - Typescript Project](https://hamberfim-typescript-cart.netlify.app/) <br/>
 :point_right: [CI/CD -CSV - JS Project](https://js-csvreader.netlify.app/) <br/>
 :point_right: [CI/CD -Consume API - JS Project](https://js-consume.netlify.app/) <br/>
 :point_right: [CI/CD -Palindrome - JS Project](https://js-tacocat.netlify.app/) <br/>
