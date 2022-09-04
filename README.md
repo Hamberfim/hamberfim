@@ -26,7 +26,7 @@
 
 C#, ASP.NET Core MVC, Bootstrap/CSS, HTML, and some graphic design <br/>
 :point_right: [TacoCat - ASP.NET Core MVC Project](https://tacocat.anthonyhamlin.com/) <br/>
-:point_right: [Heroku CI/CD - FizzBuzz - ASP.NET Core MVC Project](https://hamberfim-fizzbuzz.herokuapp.com) <br/>
+:point_right: [FizzBuzz - ASP.NET Core MVC Project](https://fizzbuzz.anthonyhamlin.com/) <br/>
 :point_right: [Bakers Formula Converter - C# Windows Forms Application Project](https://github.com/Hamberfim/BakersFormulaConverter) <br/>
 
 #### For more examples of C#, Java or Python, see my Pinned GitHub repos below or browse through my GitHub. <br/>
