@@ -1,9 +1,7 @@
-<img src="https://camo.githubusercontent.com/9a40c450a9351a0648965fc4357dfda2d59338cb305636b711117f82966d37bc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d48616d62657266696d2673686f775f69636f6e733d74727565" alt="Anthony's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Hamberfim&show_icons=true" style="max-width:100%;"><br/>
-
 <span style="white-space: nowrap;"><h3>👋Hi, I'm Anthony.</h3></span>
 :man_technologist:<strong>Husband, Dad, Linux Lover, Developer, Data Wrangler, & DevOps enthusiast, interested in creating things that have a positive impact on our world.</strong>⚡ 
 <img align="right" src="https://camo.githubusercontent.com/3037d9317fc8aaa3e9a5dfded64cb3aab8c0b6c5/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f312a495247486d69477361313673746564517649615a66772e676966" width="340" data-canonical-src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width:100%;"><br/>
-<span style="white-space: nowrap;">I solve problems creatively in controlled, calculated, and organized ways. Deliberate in my planning, I think before acting. I do my homework and have a high degree of curiosity about many areas. I enjoy learning for learning’s sake, and I become competent in the things I choose to learn. I am a strong stabilizing force on a team during high-pressure projects, a team player and I support the cause without hidden agendas. </span><br/><br/>
+<span style="white-space: nowrap;">I solve problems creatively in controlled, calculated, and organized ways. Deliberate in my planning, I think before acting. I do my research and have a high degree of curiosity about many areas. I enjoy learning for learning’s sake, and I become competent in the things I choose to learn. I am a strong stabilizing force on a team during high-pressure projects, a team player and I support the cause without hidden agendas. </span><br/><br/>
 :point_right: [Deployed GitHub Resume Website](https://hamberfim.github.io/) <br/>
 
 <span style="text-align: left">
@@ -21,6 +19,8 @@
 🌱 CIS175 <strong>Java II</strong>, Grade: A <br/>
 🌱 CIS189 <strong>Python I</strong>, Grade: A <br/>
 🌱 CIS289 <strong>Python II</strong>, Grade: A <br/>
+🌱 WDV221 <strong>JavaScript I</strong>, Grade: A <br/>
+🌱 CIS169 <strong>C# I</strong>, Grade: A <br/>
  
 ###### To open these links below in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
 
@@ -28,6 +28,7 @@ C#, ASP.NET Core MVC, Bootstrap/CSS, HTML, and some graphic design <br/>
 :point_right: [TacoCat - ASP.NET Core MVC Project](https://tacocat.anthonyhamlin.com/) <br/>
 :point_right: [FizzBuzz - ASP.NET Core MVC Project](https://fizzbuzz.anthonyhamlin.com/) <br/>
 :point_right: [Bakers Formula Converter - C# Windows Forms Application Project](https://github.com/Hamberfim/BakersFormulaConverter) <br/>
+:point_right: [Student Worker - C# MVC Web Application Final Project](https://github.com/Hamberfim/CIS169-Fall-2022-Final) <br/>
 
 #### For more examples of C#, Java or Python, see my Pinned GitHub repos below or browse through my GitHub. <br/>
  
