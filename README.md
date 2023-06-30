@@ -42,7 +42,18 @@ JavaScript, Typescript, Bootstrap/CSS, HTML, some graphic design and CI/CD via N
 :point_right: [CI/CD -Reverse - JS Project](https://js-reverse.netlify.app/) <br/>
 :point_right: [CI/CD -100 - JS Project](https://js-one-hundred.netlify.app/) <br/>
 :point_right: [CI/CD -Char Count - JS Project](https://js-charcount.netlify.app/) <br/>
- 
+<br/>
+Java <br/>
+:point_right: [Spring MVC Student Rec - Java Project](https://github.com/Hamberfim/wk10_SpringMVC_3) <br/>
+:point_right: [Spring MVC Contacts- Java Project](https://github.com/Hamberfim/CIS175_Wk9_SpringContacts2) <br/>
+:point_right: [Spring Boot - Java Project](https://github.com/Hamberfim/CIS175_Wk8_Assessment) <br/>
+:point_right: [Web JSP, Servlet, CRUD - Java Project](https://github.com/Hamberfim/CIS175_Wk5_Assessment_JPAJSPServlet) <br/>
+:point_right: [Convert Console app to Web - Java Project](https://github.com/Hamberfim/Week5_JPA_JSP_Servlet_Lab) <br/>
+:point_right: [JSP form - Java Project](https://github.com/Hamberfim/CoinConverter_Week4) <br/>
+:point_right: [Servlets and JSP - Java Project](https://github.com/Hamberfim/CIS175_Week4_JSPServlet_assessment) <br/>
+:point_right: [JPA classes and a database - Java Project](https://github.com/Hamberfim/Week3_JPA_Assessment) <br/>
+
+
 
 Graphics, Photography, JavaScript, Bootstrap/CSS, HTML <br/>
 <!-- :point_right: [My Adobe Portfolio](https://adhamlin.myportfolio.com) <br/> -->
