@@ -24,15 +24,15 @@
 ###### To open these links below in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
 
 C#, ASP.NET Core MVC, Bootstrap/CSS, HTML, and some graphic design <br/>
-:point_right: [TacoCat - ASP.NET Core MVC Project](https://tacocat.anthonyhamlin.com/) <br/>
-:point_right: [FizzBuzz - ASP.NET Core MVC Project](https://fizzbuzz.anthonyhamlin.com/) <br/>
+:point_right: [TacoCat - ASP.NET Core MVC Project](https://github.com/Hamberfim/PalindromeCsharp) <br/>
+:point_right: [FizzBuzz - ASP.NET Core MVC Project](https://github.com/Hamberfim/FizzBuzzMVC) <br/>
 :point_right: [Bakers Formula Converter - C# Windows Forms Application Project](https://github.com/Hamberfim/BakersFormulaConverter) <br/>
 :point_right: [Student Worker - C# MVC Web Application Final Project](https://github.com/Hamberfim/CIS169-Fall-2022-Final) <br/>
 
 #### For more examples of C#, Java or Python, see my Pinned GitHub repos below or browse through my GitHub. <br/>
  
 JavaScript, Typescript, Bootstrap/CSS, HTML, some graphic design and CI/CD via Netlify <br/>
-:point_right: [Bakers Formula Converter - Typescript Project](https://bakersformula.anthonyhamlin.com/) <br/>
+:point_right: [Bakers Formula Converter - Typescript Project](https://github.com/Hamberfim/BakersFormulaConverterTypescript) <br/>
 :point_right: [CI/CD -Shopping-Cart - Typescript Project](https://hamberfim-typescript-cart.netlify.app/) <br/>
 :point_right: [CI/CD -CSV - JS Project](https://js-csvreader.netlify.app/) <br/>
 :point_right: [CI/CD -Consume API - JS Project](https://js-consume.netlify.app/) <br/>
