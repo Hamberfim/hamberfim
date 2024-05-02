@@ -6,8 +6,9 @@
 <span style="text-align: left">
 ✨ Pursuing an AAS degree in Computer Information Systems. <br/>
 
-:bulb: Obtained a Python Application Developer Certificate (Program Honors GPA: 4.0) Fall 2020. <br/>
-:bulb: Obtained a Java Application Developer Certificate (Program Honors GPA: 4.0) Spring 2020. <br/>
+:bulb: Obtained a C# Application Developer Certificate Spring 2024. <br/>
+:bulb: Obtained a Python Application Developer Certificate Fall 2020. <br/>
+:bulb: Obtained a Java Application Developer Certificate Spring 2020. <br/>
 <br/>
 ✨ <strong>Relevant Completed Coursework</strong> - Current Program GPA: 3.92: <br/>
 🌱 CIS125 <strong>Intro to Programming Logic</strong>, Grade: A <br/>
