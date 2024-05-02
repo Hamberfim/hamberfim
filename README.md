@@ -6,7 +6,7 @@
 <span style="text-align: left">
 ✨ Pursuing an AAS degree in Computer Information Systems. <br/>
 
-:bulb: Obtained a C# Application Developer Certificate Spring 2024. <br/>
+:bulb: Obtained a C# .Net Application Developer Certificate Spring 2024. <br/>
 :bulb: Obtained a Python Application Developer Certificate Fall 2020. <br/>
 :bulb: Obtained a Java Application Developer Certificate Spring 2020. <br/>
 <br/>
