@@ -21,6 +21,7 @@
 🌱 CIS189 <strong>Python Programming I</strong>, Grade: A <br/>
 🌱 CIS289 <strong>Python Programming II</strong>, Grade: A <br/>
 🌱 CIS169 <strong>C# Programming I</strong>, Grade: A <br/>
+🌱 CIS169 <strong>C# Programming II</strong>, Grade: A <br/>
 🌱 CIS161 <strong>C++ Programming I</strong>, Grade: A <br/>
  
 ###### To open these links below in a new tab use 'CTRL+click' on WindowsOS or 'CMD+click' on MacOS:
